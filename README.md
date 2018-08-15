@@ -4,7 +4,7 @@
 
 ## 使用工具
 - [Justified-Gallery](https://github.com/miromannino/Justified-Gallery)
-- [btt-beauty-APT](https://github.com/yiyu0x/ptt-beauty-API)
+- [ptt-beauty-API](https://github.com/yiyu0x/ptt-beauty-API)
 
 ## demo
 ![screenshot](https://i.imgur.com/Ac2KwtI.jpg)
