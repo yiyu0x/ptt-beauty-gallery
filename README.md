@@ -1,4 +1,5 @@
 # ptt-beauty-gallery
+![Python Version](https://img.shields.io/badge/Python-3.6-green.svg)
 
 [Live Demo](http://178.128.61.189:7770/)
 
